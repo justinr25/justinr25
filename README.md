@@ -4,7 +4,7 @@ Hi, I'm Justin. I am studying CS at UMich, and I am interested in all things mac
 
 - 🔭 I’m currently working on computer vision and machine learning projects at UMich
 - 🌱 I’m currently learning deep learning, computer vision, and full-stack web development.
-- 💡 I recently built a web app called Splitr that uses AI and face recognition to fairly split shared expenses, winning Best Use of Auth0 at MHacks25. Check out the [Devpost](https://devpost.com/software/splitr-vbt924?ref_content=user-portfolio&ref_feature=in_progress)/[GitHub](https://github.com/rashika-k/MHacks-2025b)!
+- 💡 I recently built a web app called Splitr that uses AI and face recognition to fairly split shared expenses, winning Best Use of Auth0 at MHacks 2025. Check out the [Devpost](https://devpost.com/software/splitr-vbt924?ref_content=user-portfolio&ref_feature=in_progress)!
 
 <!--
 **justinr25/justinr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
