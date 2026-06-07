@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Justin. I am studying CS at UMich
+Hi, I'm Justin. I am studying CS at UMich.
 
 <!--
 **justinr25/justinr25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
